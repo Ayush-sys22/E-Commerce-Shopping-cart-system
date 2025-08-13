@@ -12,7 +12,7 @@ Dynamic pricing & category-based discounts.
 - Undo last action with Command Pattern.
 - PDF/text receipt generation.
 
----
+--
 
 ## 🛠 Tech Stack
 - **Language**: Java (OOP principles)
